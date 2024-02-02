@@ -27,6 +27,9 @@ A curated list of artificial intelligence (AI) tools.
 - 10Web - https://lnkd.in/e6Ja8e2s
 - Akkio - akkio.com
 
+## Phone Calls
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
+
 ## Research
 
 - Consensus - https://consensus.app/
