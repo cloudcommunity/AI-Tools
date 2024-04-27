@@ -48,6 +48,7 @@ A curated list of artificial intelligence (AI) tools.
 ---
 
 Other lists:
+- https://www.funfun.tools/
 - https://github.com/mahseema/awesome-ai-tools
 - https://github.com/pingan8787/awesome-ai-tools
 - https://github.com/JMcrafter26/awesome-ai-tools
