@@ -45,6 +45,9 @@ A curated list of artificial intelligence (AI) tools.
 - Bertha AI - bertha.ai
 - Simplified - simplified.ai
 
+## Customer Service
+- [Gali Chat](https://www.galichat.com/) - Your 24/7 AI Support Assistant that helps you grow your business.
+  
 ---
 
 Other lists:
