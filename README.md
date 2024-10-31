@@ -24,7 +24,7 @@ A curated list of artificial intelligence (AI) tools.
 ## Coding
 
 - DeepCode - deepcode.ai
-- 10Web - https://lnkd.in/e6Ja8e2s
+- [10Web](https://10web.io/)
 - Akkio - akkio.com
 
 ## Research
