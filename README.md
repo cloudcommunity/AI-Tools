@@ -46,7 +46,7 @@ A curated list of artificial intelligence (AI) tools.
 - Simplified - simplified.ai
 
 ## Customer Service
-- [Gali Chat](https://www.galichat.com/) - An AI no-code assistant that manages lead generation and customer service.
+- [GaliChat](https://www.galichat.com/) - An AI no-code assistant that manages lead generation and customer service.
   
 ---
 
