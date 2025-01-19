@@ -47,6 +47,10 @@ A curated list of artificial intelligence (AI) tools.
 - Bertha AI - bertha.ai
 - Simplified - simplified.ai
 
+## Education
+
+- SolverGenie - [SolverGenie](https://solvergenie.site/) - Free AI Tool to get instant answers to your physics and maths problems.
+
 ## Customer Service
 - [GaliChat](https://www.galichat.com/) - An AI no-code assistant that manages lead generation and customer service.
   
