@@ -56,3 +56,5 @@ Other lists:
 - https://github.com/mahseema/awesome-ai-tools
 - https://github.com/pingan8787/awesome-ai-tools
 - https://github.com/JMcrafter26/awesome-ai-tools
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
